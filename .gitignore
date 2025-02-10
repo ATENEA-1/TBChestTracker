@@ -9,14 +9,14 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+*https://totalbattle.com/es/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+totalbattle
 # Mono auto generated files
 mono_crash.*
-
-# Build results
+mono Cofres.
+# Build resul*
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
